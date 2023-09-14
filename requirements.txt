@@ -1,0 +1,5 @@
+# pip install -r requirements.txt
+python
+cv2
+hyperlpr3 # python -m pip install hyperlpr3
+torch
